@@ -21,27 +21,7 @@ Este bot do Telegram oferece uma variedade de recursos para gerenciar uma lista 
 
 7. **Operações CRUD**: Este bot segue o paradigma CRUD (Create, Read, Update, Delete), permitindo que as pessoas realizem todas as operações básicas de manipulação de dados em uma lista de usuários diretamente do Telegram.
 
-## COMO USAR?
-### BAIXANDO O PROJETO:
-**Passo 1:** Clone o repositório para o seu sistema local.
-
-```bash
-git clone https://github.com/VILHALVA/CRUD-TELEBOT-EM-JSON.git
-```
-
-**Passo 2:** Navegue até o diretório do projeto.
-
-```bash
-cd CRUD-TELEBOT-EM-JSON
-```
-
-**Passo 3:** Descompacte o arquivo ZIP (se você baixou manualmente):
-
-```bash
-unzip CRUD-TELEBOT-EM-JSON.zip
-```
-
-### EXECUTANDO O PROJETO:
+## EXECUTANDO O PROJETO:
 1. **Coloque o Token:**
    - Antes de executar o programa, é necessário substituir o token do seu bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. Se você não estiver familiarizado com esses passos, confira nosso [curso completo sobre a criação de bots no Telegram](https://github.com/VILHALVA/CURSO-DE-TELEGRAM-BOT) para obter orientações detalhadas.
 
@@ -52,6 +32,6 @@ unzip CRUD-TELEBOT-EM-JSON.zip
 ```
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de boas-vindas e clique no botão inline.
 
-## CREDITOS:
+## SAIBA MAIS:
 - [PROJETO CRIADO PELO VILHALVA](https://github.com/VILHALVA)
-
+- [FAÇA OS NOSSOS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
