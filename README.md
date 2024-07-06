@@ -25,11 +25,18 @@ Este bot do Telegram oferece uma variedade de recursos para gerenciar uma lista 
 1. **Coloque o Token:**
    - Antes de executar o programa, é necessário substituir o token do seu bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. 
 
+2. **Instalando as dependências:**
+   - Antes de executar o bot, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` em `CODIGO`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
 2. **Inicie o Bot:**
-   - Execute o bot do Telegram em Python iniciando-o com o seguinte comando:
-```bash
+   - Execute o bot do Telegram em Python iniciando-o com o seguinte comando em `CODIGO`:
+   ```bash
    python CODIGO.py
-```
+   ```
+
    - Inicie o bot enviando o comando `/start`. Receba uma mensagem de boas-vindas e clique no botão inline.
 
 ## SAIBA MAIS:
