@@ -31,7 +31,7 @@ Este bot do Telegram oferece uma variedade de recursos para gerenciar uma lista 
    pip install -r requirements.txt
    ```
 
-2. **Inicie o Bot:**
+3. **Inicie o Bot:**
    - Execute o bot do Telegram em Python iniciando-o com o seguinte comando em `CODIGO`:
    ```bash
    python CODIGO.py
