@@ -1,3 +1,1 @@
-pytelegrambotapi
-telebot
-telegram
+python-telegram-bot
