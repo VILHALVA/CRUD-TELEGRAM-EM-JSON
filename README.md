@@ -23,7 +23,7 @@ Este bot do Telegram oferece uma variedade de recursos para gerenciar uma lista 
 
 ## EXECUTANDO O PROJETO:
 1. **Coloque o Token:**
-   - Antes de executar o programa, é necessário substituir o token do seu bot, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather). Certifique-se também de que todas as dependências estejam instaladas em sua máquina. 
+   - Antes de executar o programa, é necessário substituir o token do seu bot no arquivo `TOKEN.py`, o qual pode ser obtido por meio do [@BotFather](https://t.me/BotFather).
 
 2. **Instalando as dependências:**
    - Antes de executar o bot, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` em `CODIGO`:
